@@ -1,1 +1,2 @@
 ini workshop 1
+ini baris 2 workshop 1
